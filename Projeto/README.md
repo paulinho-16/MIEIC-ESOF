@@ -16,7 +16,7 @@ Thank you!
 
 * [Eduardo Brito](https://github.com/edurbrito)
 
-* [Paulo Ribeiro](https://github.com/PJscp16)
+* [Paulo Ribeiro](https://github.com/paulinho-16)
   
 * [Pedro Ferreira](https://github.com/pdff2000)
 
